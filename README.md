@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Edwin Kambale - [Github](https://github.com/bwambale03) / [Twitter](https://twitter.com/bwambaleedwin03)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) 
+Francis Thore - [Github](https://github.com/francisthore) 
 
 ## License
 Public Domain. No copy write protection. 
